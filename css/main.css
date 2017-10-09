@@ -1,0 +1,41 @@
+/* HEADER STYLES */
+
+.header ul {
+	display: flex;
+	flex-direction: row-reverse;
+    list-style-type: none;
+    align-items: center;
+    margin: 4vh 3vw 0 0 ;	
+}
+.header li {
+	margin: 0 0.8vw;
+	font-size: 0.8rem;
+	font-family: sans-serif;
+    color: #666;
+}
+#button {
+	background-color: #4083ef;
+	height: 5.5vh;
+	width: 7vw;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	padding: 1.35vh 0;
+	box-sizing: border-box;
+	border-radius: 2px;	
+}
+.apps {
+	height: 4vh;
+	width: 4vh;
+}
+
+/* HOMEPAGE STYLING */
+.content-container {
+	position: relative;
+}
+.logo {
+    position: relative;
+	display: block;
+	margin: 0 auto;
+	top: 27vh;
+}

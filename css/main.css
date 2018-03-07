@@ -15,7 +15,7 @@
 }
 #button {
 	background-color: #4083ef;
-	height: 5.5vh;
+	height: 5vh;
 	width: 7vw;
 	color: #fff;
 	font-weight: bold;
@@ -45,15 +45,15 @@
     position: relative;
 	display: block;
 	margin: 0 auto;
-	top: 27vh;
+	top: 23vh;
 }
 .search {
 	display: block;
 	position: relative;
 	margin: 0 auto;
-	top: 33vh;
-	width: 45%;
-	height: 8vh;
+	top: 27vh;
+	width: 47%;
+	height: 7vh;
 	background-color: transparent;
 	box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.50);
 	border: none;
@@ -63,14 +63,14 @@
 .sub-container {
 	display: block;
 	position: relative;
-	top: 39vh;
+	top: 32vh;
 	left: 37vw;
 }
 .sub {
 	background-color: #eee;
 	border: none;
-	height: 7vh;
-	width: 25vh;
+	height: 6vh;
+	width: 20vh;
 	font-weight: bold;
 	color: #7c7c7c;
 	font-size: 0.8em
